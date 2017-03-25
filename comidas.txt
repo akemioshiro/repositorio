@@ -3,3 +3,5 @@ sashimi
 spaguetti
 salada
 sorvete
+gelatina
+tempura
